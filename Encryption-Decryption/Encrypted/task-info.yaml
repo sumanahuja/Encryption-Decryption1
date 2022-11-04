@@ -1,15 +1,6 @@
 type: edu
 custom_name: Encrypted!
 files:
-- name: src/Main.kt
-  visible: true
-  text: |-
-    package encryptdecrypt
-
-    fun main() {
-        println("Hello World!")
-    }
-  learner_created: false
 - name: test/EncryptDecryptTest.java
   visible: false
   text: |
@@ -55,6 +46,9 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/279/stages/1415/implement#comment
+- name: src/Main.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/21966#comment
 status: Solved
 record: 1

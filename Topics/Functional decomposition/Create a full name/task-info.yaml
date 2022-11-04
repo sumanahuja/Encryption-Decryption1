@@ -1,0 +1,14 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // implement your function here
+    fun createFullName...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12674#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 10 Nov 2022 22:20:39 UTC"
+record: -1
